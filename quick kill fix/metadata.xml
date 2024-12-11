@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Quick Kill Fix</name>
+    <directory>quick kill fix</directory>
+    <id>3382397474</id>
+    <description>Quick kill (debug 10) is useful when testing mods. Unfortunately, this option causes issues with a few bosses. This mod fixes those issues.
+
+[list]
+    [*]The Lamb: The Lamb's body won't keep spamming the poof animation
+    [*]Delirium: Delirium will actually die rather than getting stuck in a loop
+    [*]Rotgut: Rotgut's first phase won't get stuck anymore, and you can proceed to the next phase
+    [*]Mother: Mother won't die immediately, Mother2 will spawn, and you won't be softlocked
+    [*]Dogma: Dogma won't die immediately, you won't be softlocked, and you'll be taken to The Beast
+[/list]</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+</metadata>
